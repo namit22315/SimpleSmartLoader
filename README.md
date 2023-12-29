@@ -50,18 +50,16 @@ The code includes a signal handler for segmentation faults (SIGSEGV). When a seg
 ## Contributions
 
 Namit Jain (2022315)
-Load ELF Header Function
-Load Program Header Function
-Run Entry Point Function
-Segmentation Fault Handler
-Optimization and Debugging
-
-Pranav Tanwar (2022368)
-Cleanup Functions
-Memory Mapping Function
-Segmentation Fault Handler
-Optimization and Debugging
+1. Load ELF Header Function
+2. Load Program Header Function
+3. Run Entry Point Function
+4. Segmentation Fault Handler
+5. Optimization and Debugging
+6. Cleanup Functions
+7. Memory Mapping Function
+8. Segmentation Fault Handler
+9. Optimization and Debugging
 
 ## Github Link
 
-https://github.com/namit22315/OS-ASSIGNMENT-4
+https://github.com/namit22315/SimpleSmartLoader
